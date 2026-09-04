@@ -3,7 +3,7 @@
 # 🌊 SKEVA Student Company — SMAN 17 Surabaya
 **Elevate Your Bathroom Experience with P-BOOM**
 
-[![Website Status](https://img.shields.io/badge/Website-Live-224B8D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skevastudentcompany.mydurable.com)
+[![Website Status](https://img.shields.io/badge/Website-Live-224B8D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dejavi08.github.io/SkevaSC/)
 [![Shopee Store](https://img.shields.io/badge/Shopee-Official%20Store-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white)](https://id.shp.ee/qmb5ThY)
 [![Instagram](https://img.shields.io/badge/Instagram-@skeva__sc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skeva_sc)
 [![TikTok](https://img.shields.io/badge/TikTok-@skeva__sc-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@skeva_sc)
